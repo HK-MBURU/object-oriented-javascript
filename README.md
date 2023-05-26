@@ -21,6 +21,3 @@ For CheckingAccount, perform a withdrawal that exceeds the current balance but r
 
 Your implementation should showcase the principles of OOP, including inheritance, encapsulation, and polymorphism.
 
- 
-
-All the Best!
